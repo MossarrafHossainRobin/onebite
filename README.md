@@ -108,21 +108,51 @@ onebite/
 ---
 
 <div align="center">
-  <h2>👨‍💻 Author</h2>
-  <p><strong>Mossarraf Hossain Robin</strong></p>
-  <p>
-    🎓 CSE Undergraduate Student, Green University of Bangladesh<br/>
-    <a href="mailto:mossarrafhossainrobin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-    &nbsp;
-    <a href="https://linkedin.com/in/mossarrafhossainrobin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    &nbsp;
-    <a href="https://github.com/MossarrafHossainRobin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
+  <h2>👨‍💻 Authors</h2>
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <strong>Mossarraf Hossain Robin</strong><br/>
+        🎓 CSE Undergraduate Student<br/>
+        Green University of Bangladesh<br/><br/>
+        <a href="mailto:mossarrafhossainrobin@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+        <a href="https://linkedin.com/in/mossarrafhossainrobin" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="https://github.com/MossarrafHossainRobin" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <strong>Irfan Ferdous Siam</strong><br/>
+        🎓 CSE Undergraduate Student<br/>
+        Green University of Bangladesh<br/><br/>
+        <a href="mailto:siamtalukdar3@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+        <a href="https://linkedin.com/in/irfan-ferdous-siam" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="https://github.com/IrfanTech-X" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
 <div align="center">
   <h2>📃 License</h2>
-  <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
+  <p>
+    <a href="https://opensource.org/licenses/MIT" target="_blank">
+      <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License: MIT"/>
+    </a>
+  </p>
+  <p>This project is licensed under the <strong>MIT License</strong> — feel free to use, modify, and distribute with proper attribution.</p>
 </div>
+
