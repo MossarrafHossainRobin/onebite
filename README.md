@@ -78,32 +78,33 @@
 
 <div>
   <h2>📁 Project Structure</h2>
-  <pre>
+  <pre style="font-family: monospace;">
 onebite/
-├── admin_dashboard.php      # Admin control panel for managing orders and inventory
-├── analytics.php            # Sales and order analytics dashboard
-├── customer_dashboard.php   # Customer account and order overview
-├── customer_menu.php        # Customer menu browsing and ordering page
-├── db_connect.php           # Database connection script
-├── index.php                # Main entry and login page
-├── login.php                # Login handling script
-├── logout.php               # Logout script
-├── manage_menu.php          # Admin menu management page
-├── my_orders.php            # Customer order tracking page
-├── order.php                # Order placement and processing script
-├── payment.php              # Payment gateway integration
-├── place_order.php          # Order confirmation and placement
-├── profile.php              # User profile management
-├── register.php             # User registration form
-├── update_inventory.php     # Inventory update interface for admins
-├── user_management.php      # Admin user management page
-├── view_orders.php          # Admin view for all orders
-├── app.js                   # JavaScript functionalities
-├── styles.css               # CSS styling
-├── images/                  # Folder containing all food images
-└── README.md                # Project documentation
+├── <a href="admin_dashboard.php">admin_dashboard.php</a>      # Admin control panel for managing orders and inventory
+├── <a href="analytics.php">analytics.php</a>            # Sales and order analytics dashboard
+├── <a href="customer_dashboard.php">customer_dashboard.php</a>   # Customer account and order overview
+├── <a href="customer_menu.php">customer_menu.php</a>        # Customer menu browsing and ordering page
+├── <a href="db_connect.php">db_connect.php</a>           # Database connection script
+├── <a href="index.php">index.php</a>                # Main entry and login page
+├── <a href="login.php">login.php</a>                # Login handling script
+├── <a href="logout.php">logout.php</a>               # Logout script
+├── <a href="manage_menu.php">manage_menu.php</a>          # Admin menu management page
+├── <a href="my_orders.php">my_orders.php</a>            # Customer order tracking page
+├── <a href="order.php">order.php</a>                # Order placement and processing script
+├── <a href="payment.php">payment.php</a>              # Payment gateway integration
+├── <a href="place_order.php">place_order.php</a>          # Order confirmation and placement
+├── <a href="profile.php">profile.php</a>              # User profile management
+├── <a href="register.php">register.php</a>             # User registration form
+├── <a href="update_inventory.php">update_inventory.php</a>     # Inventory update interface for admins
+├── <a href="user_management.php">user_management.php</a>      # Admin user management page
+├── <a href="view_orders.php">view_orders.php</a>          # Admin view for all orders
+├── <a href="app.js">app.js</a>                   # JavaScript functionalities
+├── <a href="styles.css">styles.css</a>               # CSS styling
+├── <a href="images/">images/</a>                  # Folder containing all food images
+└── <a href="README.md">README.md</a>                # Project documentation
   </pre>
 </div>
+
 
 ---
 
